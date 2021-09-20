@@ -1,0 +1,16 @@
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.exe
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.deps.json
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.runtimeconfig.json
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.runtimeconfig.dev.json
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.dll
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\ref\aula14.06.dll
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\bin\Debug\net5.0\aula14.06.pdb
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.csprojAssemblyReference.cache
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.AssemblyInfoInputs.cache
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.AssemblyInfo.cs
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.csproj.CoreCompileInputs.cache
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.dll
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\ref\aula14.06.dll
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.pdb
+C:\Users\viviane.santos3\source\repos\aula14.06\aula14.06\obj\Debug\net5.0\aula14.06.genruntimeconfig.cache
